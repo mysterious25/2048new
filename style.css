@@ -30,15 +30,15 @@ html, body {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        width: 80vmin;
-        height: 80vmin;
+        width: 91vmin;
+        height: 110vmin;
         background-color: white;
     }
 
         .game .field .cell {
             display: flex;
             align-items: center;
-            font-size: 10vmin;
+            font-size: 2vmin;
             height: 20vmin;
             width: 20vmin;
             box-sizing: border-box;
